@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Challenge Automation - SauceDemo 
 Proyecto de automatización desarrollado con **Python, Selenium y Pytest** para validar funcionalidades de la web SauceDemo y un servicio API de MercadoLibre.
 
@@ -83,3 +84,6 @@ reports/report.html
 - Se implementó Page Object Model para mejorar la manutención del código.
 - Se implementó fixture de Pytest para manejo del navegador y login reutilizable.
 - Las capturas de pantallas se agregan al reporte y al mismo tiempo se encuentran en la carpeta screenshots con fecha y hora de la captura cuando falla una prueba.
+=======
+# automation-challenge
+>>>>>>> 381c0c03d3904104f0ded7f23113084cd026f283
